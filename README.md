@@ -1,2 +1,42 @@
-# SkillCraft-Task2-Data-Cleaning
-Data cleaning and preparation of the Global Superstore dataset using python and pandas as part of the SkillCraft Technology internship. The project includes handling missing values, removing duplicates and converting data types.
+# SkillCraft Technology - Task 2: Data Cleaning and Preparation
+
+## Project Overview
+
+This project focuses on cleaning and preparing the Global Superstore dataset using Python and Pandas.
+
+## Objectives
+
+- Identify and handle missing values
+- Remove duplicate records
+- Convert data types
+- Standardize and clean data
+- Export the cleaned dataset to a new CSV file
+
+## Tools and Libraries
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook / Google Colab
+- GitHub
+
+## Project Structure
+
+- data/ → Raw and cleaned datasets
+- notebooks/ → Data cleaning notebook
+- images/ → Screenshots of outputs
+
+## Steps Performed
+
+1. Loaded the dataset using Pandas
+2. Checked for missing values
+3. Removed duplicate rows
+4. Converted date columns to datetime format
+5. Verified data types
+6. Exported the cleaned dataset
+
+## Output
+
+The cleaned dataset was saved as:
+
+`Global_Superstore_Cleaned.csv`
